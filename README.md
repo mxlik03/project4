@@ -37,10 +37,10 @@ This project helped me understand differentiability better because I had to do m
 I also learned that making something work and making something easy for someone else to understand are two different things. Revising this project for a portfolio made me pay more attention to how I explained the math, how the app looked, and how someone else would use it.
 
 Links
-- Live Shiny App: https://malik-harrison.shinyapps.io/project4/
-- Full Report:** [View Report](Project4_Report.pdf)
-- Source Code:** [View app.R](app.R)
-- Reflection:** [View Reflection](Reflection.pdf)
+- **Live Shiny App:** https://malik-harrison.shinyapps.io/project4/
+- **Full Report:** [View Report](Project4_Report.pdf)
+- **Source Code:** [View app.R](app.R)
+- **Reflection:** [View Reflection](Reflection.pdf)
   
 Running the App
 If you want to run the app locally, open the project in RStudio and run:
